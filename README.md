@@ -1,5 +1,5 @@
 # docker-postgis-osm
-PostGIS in docker for importing OpenStreetMap data. This postgis docker container is based on the [official postgres docker image](https://hub.docker.com/_/postgres/) version 9.3. It creates a template database 'gis' owned by user 'postgres' and installs the extensions of postgis and hstore. It is intented to be used with [docker-osm2pqsql](https://github.com/ingmapping/docker-osm2pgsql).
+PostGIS in docker for importing OpenStreetMap data. This postgis docker container is based on the [official postgres docker image](https://hub.docker.com/_/postgres/) version 9.3. It creates a template database 'gis' owned by user 'postgres' and installs the extensions of postgis and hstore. It is intented to be used with [docker-osm2pgsql](https://github.com/ingmapping/docker-osm2pgsql).
 
 ## docker-postgis-osm set up
 
